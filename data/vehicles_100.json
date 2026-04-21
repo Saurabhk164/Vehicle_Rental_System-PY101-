@@ -1,0 +1,904 @@
+{
+    "vehicles": [
+        {
+            "name": "Suzuki Access",
+            "number": "MH04DH7637",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 732,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH10RJ8950",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1376,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "TVS Apache",
+            "number": "MH03BB6882",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 346,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH10KS6718",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1462,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH03HA7956",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 786,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH03BS2534",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1762,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH10ZO7007",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 886,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH16JF4905",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1828,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH02UL7116",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 559,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Honda City",
+            "number": "MH14FQ9885",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1877,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH18MG7928",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 859,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH08WG6062",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1822,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH12UG2053",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 550,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Mahindra XUV300",
+            "number": "MH18RI8140",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1987,
+            "fuel": "Diesel",
+            "year": 2018
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH08IT8926",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 580,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Kia Seltos",
+            "number": "MH12TB9904",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1906,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Suzuki Access",
+            "number": "MH20AR4012",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 449,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Maruti Swift",
+            "number": "MH17XE7113",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 2179,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH10IM2127",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 433,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH08EF4498",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1864,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH04ZO7771",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 365,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Mahindra XUV300",
+            "number": "MH02LJ3324",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1253,
+            "fuel": "Diesel",
+            "year": 2019
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH16QP7530",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 565,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH08YS7536",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1580,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH15PD8694",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 646,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH09CO6212",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1530,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH06LG3592",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 873,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Skoda Rapid",
+            "number": "MH09XW3523",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1326,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Hero Splendor",
+            "number": "MH02NF8045",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 347,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "MG Hector",
+            "number": "MH08PQ7814",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 2184,
+            "fuel": "Diesel",
+            "year": 2021
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH11ON6230",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 461,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Mahindra XUV300",
+            "number": "MH09GI8492",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1836,
+            "fuel": "Diesel",
+            "year": 2020
+        },
+        {
+            "name": "Honda Activa",
+            "number": "MH12BX6653",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 568,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Skoda Rapid",
+            "number": "MH04ZQ2723",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1582,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH12RN2070",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 869,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "Maruti Swift",
+            "number": "MH16LP3050",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1803,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH14FZ8339",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 796,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Kia Seltos",
+            "number": "MH06BH8816",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1901,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH16NV4362",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 566,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "Maruti Swift",
+            "number": "MH03RB7571",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1281,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Suzuki Access",
+            "number": "MH17FJ9481",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 684,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Honda Civic",
+            "number": "MH16SU9622",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1421,
+            "fuel": "Diesel",
+            "year": 2021
+        },
+        {
+            "name": "Bajaj Pulsar",
+            "number": "MH03CI2096",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 528,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Honda City",
+            "number": "MH20IU1020",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 2141,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Suzuki Access",
+            "number": "MH13HR2395",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 596,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "MG Hector",
+            "number": "MH19LO1996",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1396,
+            "fuel": "Diesel",
+            "year": 2023
+        },
+        {
+            "name": "Honda Activa",
+            "number": "MH16XC3027",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 832,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "MG Hector",
+            "number": "MH10BN4502",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1374,
+            "fuel": "Diesel",
+            "year": 2022
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH20VT6186",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 538,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "MG Hector",
+            "number": "MH04ZY6704",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1864,
+            "fuel": "Diesel",
+            "year": 2023
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH09IK6084",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 330,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH05IF3154",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1773,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH13ID6541",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 800,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Honda City",
+            "number": "MH11RE2487",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 2180,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH13KF6570",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 790,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Honda Civic",
+            "number": "MH03CD9093",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1400,
+            "fuel": "Diesel",
+            "year": 2019
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH06OT5248",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 715,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Honda City",
+            "number": "MH06FR9686",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1996,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH09TA2798",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 356,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Kia Seltos",
+            "number": "MH03RG6771",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1645,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "TVS Apache",
+            "number": "MH07LJ4601",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 301,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Skoda Rapid",
+            "number": "MH19LW3741",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1768,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH20IR6057",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 756,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Honda City",
+            "number": "MH15JK2062",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 2130,
+            "fuel": "Petrol",
+            "year": 2015
+        },
+        {
+            "name": "Hero Splendor",
+            "number": "MH10RG1720",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 704,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Honda City",
+            "number": "MH18FL1674",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1331,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH10CU6528",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 602,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Honda Civic",
+            "number": "MH04UH3712",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 2166,
+            "fuel": "Diesel",
+            "year": 2018
+        },
+        {
+            "name": "Hero Splendor",
+            "number": "MH13QT3276",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 825,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH03TB7181",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 2163,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Suzuki Access",
+            "number": "MH19DX4410",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 879,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Mahindra XUV300",
+            "number": "MH17VI2407",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 2199,
+            "fuel": "Diesel",
+            "year": 2016
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH20XI9068",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 879,
+            "fuel": "Petrol",
+            "year": 2015
+        },
+        {
+            "name": "Kia Seltos",
+            "number": "MH01EF9153",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1349,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH18SJ1371",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 610,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Honda City",
+            "number": "MH15PW7789",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1865,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH02NX7711",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 422,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH19JJ2209",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1873,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH02TR7049",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 877,
+            "fuel": "Petrol",
+            "year": 2015
+        },
+        {
+            "name": "Tata Nexon",
+            "number": "MH10TI6038",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1347,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Yamaha FZ",
+            "number": "MH12HB3433",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 549,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "MG Hector",
+            "number": "MH13TD8447",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1709,
+            "fuel": "Diesel",
+            "year": 2020
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH01VN8824",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 789,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Hyundai i20",
+            "number": "MH18GM6741",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1264,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "KTM Duke 250",
+            "number": "MH03QN5872",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 840,
+            "fuel": "Petrol",
+            "year": 2019
+        },
+        {
+            "name": "Toyota Camry",
+            "number": "MH11GZ9033",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1744,
+            "fuel": "Petrol",
+            "year": 2023
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH07UX1811",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 893,
+            "fuel": "Petrol",
+            "year": 2020
+        },
+        {
+            "name": "Honda City",
+            "number": "MH14PU2343",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1277,
+            "fuel": "Petrol",
+            "year": 2018
+        },
+        {
+            "name": "Honda Shine",
+            "number": "MH02JD7074",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 539,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Maruti Swift",
+            "number": "MH03AU4637",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1919,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH05VL9035",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 758,
+            "fuel": "Petrol",
+            "year": 2022
+        },
+        {
+            "name": "Mahindra XUV300",
+            "number": "MH08LS9185",
+            "type": "Car",
+            "availability": false,
+            "rate_per_day": 1548,
+            "fuel": "Diesel",
+            "year": 2019
+        },
+        {
+            "name": "Yamaha MT15",
+            "number": "MH18MZ8390",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 539,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Kia Seltos",
+            "number": "MH16UX6748",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1921,
+            "fuel": "Petrol",
+            "year": 2016
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH01EP8017",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 539,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Skoda Rapid",
+            "number": "MH05AD3944",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1525,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Honda Activa",
+            "number": "MH17LI6551",
+            "type": "Bike",
+            "availability": true,
+            "rate_per_day": 731,
+            "fuel": "Petrol",
+            "year": 2017
+        },
+        {
+            "name": "Honda City",
+            "number": "MH17MM5993",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 2198,
+            "fuel": "Petrol",
+            "year": 2015
+        },
+        {
+            "name": "Royal Enfield Classic",
+            "number": "MH06VR8145",
+            "type": "Bike",
+            "availability": false,
+            "rate_per_day": 436,
+            "fuel": "Petrol",
+            "year": 2021
+        },
+        {
+            "name": "Honda City",
+            "number": "MH03ZZ1000",
+            "type": "Car",
+            "availability": true,
+            "rate_per_day": 1496,
+            "fuel": "Petrol",
+            "year": 2018
+        }
+    ]
+}

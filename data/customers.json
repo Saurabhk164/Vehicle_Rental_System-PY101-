@@ -1,0 +1,28 @@
+{
+    "customers": [
+        {
+            "name": "Saurabh",
+            "phone": "84724924240",
+            "customer_id": "84724924240",
+            "rentals": [
+                "MH10KS6718"
+            ]
+        },
+        {
+            "name": "Gayatri",
+            "phone": "874298357250",
+            "customer_id": "874298357250",
+            "rentals": [
+                "MH12BX6653"
+            ]
+        },
+        {
+            "name": "Saurabh",
+            "phone": "83749759224",
+            "customer_id": "83749759224",
+            "rentals": [
+                "MH04DH7637"
+            ]
+        }
+    ]
+}
